@@ -1,0 +1,19 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+   .container,h4 {
+            width: 400px;
+            margin: auto;
+        }
+a {
+  color: #00B7FF;
+  margin: 300px;
+}
+.container .jumbotron{
+	 width: 200px;
+            margin: auto;
+}
+p{
+	padding-left:200px;
+}
