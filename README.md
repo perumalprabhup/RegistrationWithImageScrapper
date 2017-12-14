@@ -12,17 +12,17 @@ Express Login with JSONWebToken
 
 ## installation Process
 
-#Installing packages
+##Installing packages
 
 npm install
 
 npm install --save--dev--nyc
 
-#starting the process
+##starting the process
 
 npm start
 
-#Testing the test Cases
+##Testing the test Cases
 
 npm test
 
